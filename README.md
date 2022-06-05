@@ -1,2 +1,2 @@
 Projeto StartSe
-Desenvolvimento de um portifolio usando CSS e HTML
+Criar um portifólio usando o modelo aplicado na live da aula.
